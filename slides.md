@@ -71,9 +71,11 @@ h1 {
 Here is another comment.
 -->
 
-<!-- layout: image-right
-image: ./assets/hk_office_2_1.webp -->
----
+<!--
+layout: image-right
+image: ./assets/hk_office_2_1.webp
+-->
+
 ---
 
 # Hong Kong 
